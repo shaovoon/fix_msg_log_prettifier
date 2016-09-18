@@ -1,3 +1,9 @@
+# Python Script to Prettify FIX Protocol Message Logs with Information
+# ====================================================================
+# Author: Wong Shao Voon
+# Copyright 2016
+# No warranty implied
+
 #!/usr/bin/python
 
 import string
